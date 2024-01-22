@@ -13,6 +13,10 @@
     background-color: red !important;
                
 }
+.menubar{
+    width: 35px;
+    height:25px;
+}
 .fa-solid{
     font-size: 20px;
 }
@@ -43,8 +47,8 @@ a{
 }
 .textstart{
     text-align: start;
-    padding: 70px;
-    padding-top: 150px;
+    padding: 30px;
+    padding-top: 50px;
 }
 .imagesalign{
     display: flex;
@@ -56,8 +60,9 @@ a{
 
 .imagesize{
     width: 50vw;
+    height:500px;
 }
-.containermargin{
+.{
     padding-left: 40px;
     width: 50%;
     padding: 100px;
@@ -72,24 +77,24 @@ a{
     font-size: 20px !important;
 }
 .buttons{
-    width: 70px;
-    
+    width: 70px;   
 }
 .imagessize{
     width: 20vw;
     padding: 7px;
+    height:200px;
 }
 .image4size{
-    height: 500px;
+    height: 400px;
 }
 .containercolor{
     background-color: red;
-    width: 550px;
+    width: 350px;
     height: 170px;
-    padding: 20px;
+    padding: 6px;
     text-align: start;
-    margin-top:160px;
-    margin-left: 40px;
+    margin-top:130px;
+    margin-left: 20px;
 }
 .loremipsummargin{
     margin-bottom: 20px;
@@ -100,5 +105,12 @@ a{
 }
 .arrow{
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 500;
+    margin-left: 2px;
 }
+.containerpadding{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
